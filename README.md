@@ -34,5 +34,3 @@ O projeto permitiu praticar a organização de elementos HTML, o uso de classes 
 - Melhorar a acessibilidade das imagens e dos textos.
 - Adicionar novas seções e recursos visuais.
 
-## Créditos
-Conteúdo e imagens reunidos para fins educacionais. Os direitos das imagens pertencem aos seus respectivos titulares.
