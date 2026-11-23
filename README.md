@@ -1,36 +1,40 @@
-# Página temática: Beyoncé
+# 🎤 Página Beyoncé
 
-## Sobre o projeto
-Página web temática sobre Beyoncé, criada como atividade prática de desenvolvimento Front-end.
+## 📌 Sobre o projeto
 
-## Objetivo
-Praticar a estruturação de conteúdo com HTML e a estilização de uma página com CSS.
+Este projeto consiste na criação de uma página web temática sobre a cantora Beyoncé, desenvolvido como atividade prática durante minha formação em Análise e Desenvolvimento de Sistemas (ADS).
 
-## Tecnologias utilizadas
+## 🎯 Objetivo
+
+Aplicar conhecimentos de desenvolvimento Front-end por meio da criação e estilização de uma página web.
+
+## 💻 Tecnologias utilizadas
+
 - HTML5
 - CSS3
 
-## O que foi desenvolvido
-- Cabeçalho e apresentação da página
-- Imagem de destaque e legendas
-- Seção de biografia
-- Citações e curiosidades
-- Link para o site oficial da artista
+## 🛠️ Conhecimentos aplicados
 
-## Como visualizar
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` em um navegador.
+- Estruturação de páginas com HTML.
+- Estilização de elementos com CSS.
+- Utilização de imagens e legendas.
+- Organização de textos, listas e citações.
+- Aplicação de responsividade para telas menores.
 
-## Organização dos arquivos
-- `index.html`: estrutura da página.
-- `css/stylebet.css`: estilos visuais.
-- `img/`: imagens utilizadas e imagens adicionais do projeto.
+## 🌐 Acesse o projeto
 
-## Aprendizados
-O projeto permitiu praticar a organização de elementos HTML, o uso de classes CSS, imagens, links, listas e ajustes de layout para telas menores.
+[Visualizar página Beyoncé](https://oivansoares.github.io/pagina-beyonce/)
 
-## Próximas melhorias
-- Revisar e ampliar a responsividade.
-- Melhorar a acessibilidade das imagens e dos textos.
-- Adicionar novas seções e recursos visuais.
+## 📚 Aprendizados
 
+Durante o desenvolvimento, pratiquei conceitos fundamentais de HTML e CSS, melhorando minha compreensão sobre estruturação, organização e estilização de páginas web.
+
+## 🚀 Próximos passos
+
+- Continuar aprimorando meus conhecimentos em Front-end.
+- Melhorar o design e a responsividade.
+- Desenvolver novos projetos para meu portfólio.
+
+---
+
+Desenvolvido por **Ivan Soares** | Estudante de Análise e Desenvolvimento de Sistemas (ADS).
